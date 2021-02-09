@@ -30,5 +30,5 @@ We evaluated three existing visual interpretation methods via empirical study: G
 1. [Grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
 2. [Mask](https://github.com/ruthcfong/perturb_explanations)
 3. [Rise](https://github.com/eclique/RISE)
-
+4. [Pre-trained VGG16 model](https://download.pytorch.org/models/vgg16-397923af.pth)
 # Citation
