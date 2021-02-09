@@ -14,4 +14,5 @@ three dimensions of accuracy, persuasibility and class-discriminativeness.
 ## Overview of Accuracy Evaluation
 ![image](https://github.com/muzi-8/Reliable-Evaluation-of-XAI/blob/main/images/accuracy%20pipeline.PNG)
 ## Overview of  Persuasibility Evaluation
+![iamge](https://github.com/muzi-8/Reliable-Evaluation-of-XAI/blob/main/images/persuasibility%20pipeline.PNG)
 ## Overview of Class-discriminativeness Evaluation
