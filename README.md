@@ -7,6 +7,7 @@ three dimensions of accuracy, persuasibility and class-discriminativeness.
 # Contents
 ## code
 ## pre-trained model
+## Interpretability technique
 ## constructed evaluation dataset
 ![image](https://github.com/muzi-8/Reliable-Evaluation-of-XAI/blob/main/images/dataset.PNG)
 ## Ground Truth
