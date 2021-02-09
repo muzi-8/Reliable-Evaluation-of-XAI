@@ -10,7 +10,7 @@ three dimensions of accuracy, persuasibility and class-discriminativeness.
 ## Interpretability technique
 We evaluated three existing visual interpretation methods via empirical study: Grad-CAM[1],Mask[2],Rise[3].
 ## pre-trained model
-
+The classifier we use is VGG16[4], and we load the pretrained vgg16 model in pytorch.
 ## constructed evaluation dataset
 ![image](https://github.com/muzi-8/Reliable-Evaluation-of-XAI/blob/main/images/dataset.PNG)
 ## Ground Truth
