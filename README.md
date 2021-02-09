@@ -8,7 +8,7 @@ three dimensions of accuracy, persuasibility and class-discriminativeness.
 ## code
 
 ## Interpretability technique
-We evaluated three existing visual interpretation methods via empirical study: Grad-CAM[1],Mask[2],Rise[3].
+We evaluate three existing visual interpretation methods via empirical study: Grad-CAM[1],Mask[2],Rise[3].
 ## pre-trained model
 The classifier we use is VGG16[4], and we load the pretrained vgg16 model in pytorch.
 ## constructed evaluation dataset
