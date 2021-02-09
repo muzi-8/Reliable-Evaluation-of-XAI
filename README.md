@@ -6,7 +6,7 @@ three dimensions of accuracy, persuasibility and class-discriminativeness.
 ![image](https://github.com/muzi-8/Reliable-Evaluation-of-XAI/blob/main/images/framework.PNG)
 # Contents
 ## code
-
+To Do
 ## Interpretability technique
 We evaluate three existing visual interpretation methods via empirical study: Grad-CAM[1],Mask[2],Rise[3].
 ## pre-trained model
@@ -32,3 +32,4 @@ The classifier we use is VGG16[4], and we load the pretrained vgg16 model in pyt
 3. [Rise](https://github.com/eclique/RISE)
 4. [Pre-trained VGG16 model](https://download.pytorch.org/models/vgg16-397923af.pth)
 # Citation
+To Do
