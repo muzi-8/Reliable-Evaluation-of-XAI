@@ -5,10 +5,11 @@ three dimensions of accuracy, persuasibility and class-discriminativeness.
 # Evaluation framework
 ![image](https://github.com/muzi-8/Reliable-Evaluation-of-XAI/blob/main/images/framework.PNG)
 # Contents
-## code
-To Do
 ## Interpretability technique
-We evaluate three existing visual interpretation methods via empirical study: Grad-CAM[1],Mask[2],Rise[3].
+We evaluate three existing visual interpretation methods via empirical study: Grad-cam[1],Mask[2],Rise[3].
+## code
+[To Do]
+forwardpropagation.py ：Get prediction result and return attention map explanations from Grad-cam,Mask,Rise.
 ## pre-trained model
 The classifier we use is VGG16[4], and we load the pretrained vgg16 model in pytorch.
 ## constructed evaluation dataset
